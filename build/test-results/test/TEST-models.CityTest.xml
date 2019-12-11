@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.CityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-11T06:16:13" hostname="localhost.thinkpalm.lan" time="0.275">
+  <properties/>
+  <testcase name="onLengthyCityName" classname="models.CityTest" time="0.275"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
