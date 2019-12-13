@@ -3,6 +3,7 @@
 
 # city-kit-api
 
+Cities Illustrated
 
 **API DETAILS**
 
@@ -113,3 +114,83 @@ ENDPOINT : `https://raw.githubusercontent.com/theapache64/city-kit-api/master/ap
 **Amsterdam**
 
 ![](data/amsterdam/all.jpg)
+
+
+**Austin**
+
+![](data/austin/all.jpg)
+
+
+**Boston**
+
+![](data/boston/all.jpg)
+
+
+**London**
+
+![](data/london/all.jpg)
+
+
+**Los Angeles**
+
+![](data/los-angeles/all.jpg)
+
+
+**Nashville**
+
+![](data/nashville/all.jpg)
+
+
+**New York**
+
+![](data/new-york/all.jpg)
+
+
+**Oslo**
+
+![](data/oslo/all.jpg)
+
+
+**Paris**
+
+![](data/paris/all.jpg)
+
+
+**San Francisco**
+
+![](data/san-francisco/all.jpg)
+
+
+**Seattle**
+
+![](data/seattle/all.jpg)
+
+
+**Stockholm**
+
+![](data/stockholm/all.jpg)
+
+
+**Tokyo**
+
+![](data/tokyo/all.jpg)
+
+
+**Toronto**
+
+![](data/toronto/all.jpg)
+
+
+**Washington DC**
+
+![](data/toronto/all.jpg)
+
+## I want more
+
+To get more illustrations and animations in different types such as vector, 3D etc. visit [https://www.startupmilk.com/city-kit](https://www.startupmilk.com/city-kit). 
+
+## Author
+
+- All Graphic Content created by [Nick Etemadipour](https://www.producthunt.com/@ittsnick)
+
+- API created by [theapache64](https://github.com/theapache64)
