@@ -1,6 +1,8 @@
+![](data/amsterdam/all.jpg)
+
+
 # city-kit-api
 
-An API to 
 
 **API DETAILS**
 
@@ -105,3 +107,9 @@ ENDPOINT : `https://raw.githubusercontent.com/theapache64/city-kit-api/master/ap
   }
 ]
 ```
+
+## Gallery
+
+**Amsterdam**
+
+![](data/amsterdam/all.jpg)
